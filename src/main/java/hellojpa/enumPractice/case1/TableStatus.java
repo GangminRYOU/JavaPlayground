@@ -1,4 +1,4 @@
-package hellojpa.enumPractice;
+package hellojpa.enumPractice.case1;
 
 public enum TableStatus {
     Y("1", true),

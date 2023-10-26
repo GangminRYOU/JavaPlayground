@@ -1,4 +1,4 @@
-package hellojpa.enumPractice;
+package hellojpa.enumPractice.case1;
 
 public class EnumTest {
     public static class Test1{
